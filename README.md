@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sush-sp777&label=Profile%20views&color=0e75b6&style=flat" alt="sush-sp777" /> </p>
 
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Machine Learning, Artificial Intelligence**
 
 - 📫 How to reach me **sushantsp433@gmail.com**
 
