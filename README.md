@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sush-sp777&label=Profile%20views&color=0e75b6&style=flat" alt="sush-sp777" /> </p>
 
-- 🌱 I’m currently learning **Flask, Django**
 
 - 💬 Ask me about **Python**
 
