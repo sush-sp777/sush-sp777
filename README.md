@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Patil</h1>
-<h3 align="center">Generative AI Developer | LLMs, RAG Pipelines & AI Agents</h3>
+<h3 align="center">Generative AI Engineer | LLMs, RAG Pipelines & AI Agents</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sush-sp777&label=Profile%20views&color=0e75b6&style=flat" alt="sush-sp777" /> </p>
 
