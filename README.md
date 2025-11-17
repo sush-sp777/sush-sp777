@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-FF9A00?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0066FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ChromaDB-7A1FA2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vector_Databases-333333?style=for-the-badge" />
