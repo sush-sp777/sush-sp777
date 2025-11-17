@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/FAISS-0066FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chroma-7A1FA2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-7A1FA2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vector_Databases-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
