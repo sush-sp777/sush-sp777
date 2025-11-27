@@ -43,4 +43,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sush-sp777&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sush-sp777&hide_title=true" /></p>
